@@ -2,7 +2,7 @@
 
 **`Engenheira de Software`**
 
-Me chamo Lorena Belniak Arbugeri, tenho 18 anos e sou natural do Paraná. Atualmente, curso Engenharia de Software na Universidade Positivo e sou apaixonada por tecnologia, inovação e desenvolvimento de software. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando diferentes áreas da tecnologia. Busco sempre novos aprendizados e desafios, criando soluções eficientes e aprimorando minhas habilidades. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Me chamo Lorena Belniak Arbugeri, tenho 18 anos e sou do Paraná. Atualmente, curso Engenharia de Software na Universidade Positivo e sou apaixonada por tecnologia, inovação e desenvolvimento de software. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando diferentes áreas da tecnologia. Busco sempre novos aprendizados e desafios, criando soluções eficientes e aprimorando minhas habilidades. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
 </p>
 
