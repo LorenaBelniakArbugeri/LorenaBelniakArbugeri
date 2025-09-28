@@ -7,7 +7,7 @@
   <b>`プログラマ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Lorena Belniak Arbugeri</b>
+      Olá! Eu sou a <b>Lorena Belniak Arbugeri</b>
   </samp>
 </div>
 
